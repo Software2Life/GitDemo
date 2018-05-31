@@ -11,7 +11,7 @@ namespace Demo1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Label newlbl = new Label();
         }
     }
 }
